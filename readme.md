@@ -19,3 +19,10 @@ El objetivo del proyecto es diseñar desde 0 un DER (diagrama entidad relacion) 
             -nombre de categoria
         4)eliminacion:
             -valor
+    
+    desafio 2
+        script con 10 valores minimo
+
+notas:
+    - se adjunta carpeta con los datos de pruebas ( hechos con mockaroo ).
+    - se adjuntan ambas bases de datos, la inicial sin datos, la final con los datos completos.

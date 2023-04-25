@@ -1,0 +1,10 @@
+insert into users (id, name, email, notes_id) values (1, 'Cynthy Adderson', 'cadderson0@skyrock.com', 3);
+insert into users (id, name, email, notes_id) values (2, 'Bernadette Clubley', 'bclubley1@skype.com', 2);
+insert into users (id, name, email, notes_id) values (3, 'Seamus Suthworth', 'ssuthworth2@seattletimes.com', 3);
+insert into users (id, name, email, notes_id) values (4, 'Stefania Drust', 'sdrust3@mozilla.com', 1);
+insert into users (id, name, email, notes_id) values (5, 'Ree Pigram', 'rpigram4@loc.gov', 6);
+insert into users (id, name, email, notes_id) values (6, 'Artair Drinkall', 'adrinkall5@aol.com', 8);
+insert into users (id, name, email, notes_id) values (7, 'Colan Jurasz', 'cjurasz6@ed.gov', 3);
+insert into users (id, name, email, notes_id) values (8, 'Nikkie Hanscombe', 'nhanscombe7@ameblo.jp', 8);
+insert into users (id, name, email, notes_id) values (9, 'Jdavie Verheijden', 'jverheijden8@bandcamp.com', 10);
+insert into users (id, name, email, notes_id) values (10, 'Biddy Klewi', 'bklewi9@redcross.org', 7);

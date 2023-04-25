@@ -1,0 +1,10 @@
+insert into notes (id, title, created_at, updated_at, description, category_id, deletable_id) values (1, 'Hider in the House', '2023-03-04', '2023-02-07', 'Down-sized encompassing alliance', 1, 1);
+insert into notes (id, title, created_at, updated_at, description, category_id, deletable_id) values (2, 'Method, The (Método, El)', '2022-09-25', '2022-07-10', 'Team-oriented context-sensitive paradigm', 5, 2);
+insert into notes (id, title, created_at, updated_at, description, category_id, deletable_id) values (3, 'Sorrow and Joy (Sorg og glæde)', '2022-06-21', '2022-07-07', 'Public-key transitional internet solution', 3, 1);
+insert into notes (id, title, created_at, updated_at, description, category_id, deletable_id) values (4, 'Perfect', '2023-04-22', '2023-02-20', 'Reverse-engineered empowering time-frame', 2, 1);
+insert into notes (id, title, created_at, updated_at, description, category_id, deletable_id) values (5, 'Stealth', '2022-11-10', '2022-05-09', 'Digitized scalable standardization', 6, 1);
+insert into notes (id, title, created_at, updated_at, description, category_id, deletable_id) values (6, 'Sense of History, A', '2022-07-21', '2023-01-18', 'Persistent mission-critical knowledge user', 2, 1);
+insert into notes (id, title, created_at, updated_at, description, category_id, deletable_id) values (7, 'War of the Arrows (Choi-jong-byeong-gi Hwal)', '2022-06-02', '2023-04-24', 'Vision-oriented fault-tolerant hardware', 3, 1);
+insert into notes (id, title, created_at, updated_at, description, category_id, deletable_id) values (8, 'Breezy', '2022-10-15', '2022-05-08', 'Ergonomic reciprocal benchmark', 2, 2);
+insert into notes (id, title, created_at, updated_at, description, category_id, deletable_id) values (9, 'Charlie Chan and the Curse of the Dragon Queen', '2022-07-13', '2022-09-11', 'Exclusive contextually-based hub', 2, 1);
+insert into notes (id, title, created_at, updated_at, description, category_id, deletable_id) values (10, 'Unbearable Lightness of Being, The', '2022-05-17', '2022-05-26', 'Advanced well-modulated attitude', 5, 2);

@@ -1,0 +1,11 @@
+insert into category (id, name) values (1, 'Drama|Romance');
+insert into category (id, name) values (2, 'Drama');
+insert into category (id, name) values (3, 'Comedy|Drama|Romance');
+insert into category (id, name) values (4, 'Documentary');
+insert into category (id, name) values (5, 'Comedy');
+insert into category (id, name) values (6, 'Drama');
+insert into category (id, name) values (7, 'Comedy');
+insert into category (id, name) values (8, 'Drama|Fantasy|Horror|Thriller|War');
+insert into category (id, name) values (9, 'Comedy|Romance');
+insert into category (id, name) values (10, 'Comedy');
+insert into category (id, name) values (11, 'Action|Drama');
